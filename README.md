@@ -7,7 +7,7 @@ Love to make hacking and automation and real word solution scripts.
 </em></p>
 
 [![Twitter: shivangx01b](https://img.shields.io/twitter/follow/shivangx01b?style=flat-square)](https://twitter.com/shivangx01b)
-[![GitHub shivangx01b](https://img.shields.io/github/followers/=shivangx01b?label=follow%20github&style=flat-square)](https://github.com/shivangx01b)
+[![GitHub shivangx01b](https://img.shields.io/github/followers/shivangx01b?label=follow%20github&style=flat-square)](https://github.com/shivangx01b)
 
 <br>
 
