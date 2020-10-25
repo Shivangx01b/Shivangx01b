@@ -1,6 +1,7 @@
 <h2> Hi, I'm Shivang Kumar</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=shivangx01b&show_icons=true&theme=cobalt" width="380">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangx01b&hide=css,java,html&theme=cobalt" width="380">
+
 <p><em>Bug Hunter|Penetration Tester|Coder|ML|Security Researcher ? <br><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"><br><br>
  Just a geek who is try to do something  ¯\_(ツ)_/¯ ?.
 
